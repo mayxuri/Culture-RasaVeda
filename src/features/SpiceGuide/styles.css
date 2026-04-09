@@ -19,3 +19,4 @@ body { background: #0e0600; font-family: 'DM Sans', sans-serif; }
 .card-title { font-size: 0.9rem; font-weight: 500; color: #f5e6cc; margin-bottom: 4px; }
 .card-sub { font-size: 0.78rem; color: rgba(240,230,211,0.4); margin-bottom: 8px; }
 .tag { display: inline-block; font-size: 0.68rem; padding: 2px 9px; border-radius: 999px; background: rgba(255,153,51,0.1); color: rgba(255,153,51,0.7); }
+.health-info { margin-top: 10px; font-size: 0.78rem; color: rgba(240,230,211,0.6); line-height: 1.55; border-top: 1px solid rgba(255,153,51,0.1); padding-top: 8px; }
